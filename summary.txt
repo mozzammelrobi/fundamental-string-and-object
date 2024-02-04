@@ -1,0 +1,27 @@
+1.string vs array 
+     string is immutiable /can't change
+     array is mutiable /can change element 
+2.trim() is used to remove white space 
+
+3. slice() ---> The slice() method extracts a part of a string. 
+               The slice()   method returns the extracted part in a new string. The slice() method does not change the original string.
+
+4.splice() ---->   is a JavaScript Array method that is used to remove, 
+              replace or insert items starting at a chosen index. It is also an effective tool for adding items to the end of an array.
+
+5.split() ---> method splits a string into an array of substrings.
+            The split() method returns the new array. The split() method does not change the original string
+
+6. OBJECTS ---> 
+               two way to access OBJECTS properties and set or change values
+               no 1: dot notation
+               no 2:third bracket notation
+
+        * 1--> access properties and change values
+        * 2--> how to find objects key only
+        * 3--> how to get object values only
+        * 
+        * nested in object
+        * loop in object
+        * 
+           
